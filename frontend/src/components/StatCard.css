@@ -1,0 +1,35 @@
+.stat-card{
+
+background:white;
+
+padding:28px;
+
+border-radius:22px;
+
+box-shadow:0 10px 35px rgba(15,23,42,.06);
+
+transition:.3s;
+
+}
+
+.stat-card:hover{
+
+transform:translateY(-6px);
+
+}
+
+.stat-card h4{
+
+color:#64748b;
+
+margin-bottom:20px;
+
+}
+
+.stat-card h1{
+
+font-size:45px;
+
+color:#1e293b;
+
+}
