@@ -71,39 +71,96 @@ niat-program-dashboard
 ```
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### Admin Dashboard
-![Admin Dashboard](Screenshots/Admin-Dashboard.png)
+### 👨‍💼 Admin Portal
 
-### Approval Card
-![Approval Card](Screenshots/Approval-Card.png)
+The admin portal provides centralized access to manage student requests, approvals, and placement-related activities.
 
-### Approved Students
-![Approved Students](Screenshots/Approved-students.png)
+<table>
+<tr>
+<td width="50%">
 
-### Pending Students
-![Pending Students](Screenshots/Pending%20Students.png)
+#### Admin Dashboard
+<img src="Screenshots/Admin-Dashboard.png" width="100%">
 
-### Rejected Requests
-![Rejected Requests](Screenshots/Rejected-Requests.png)
+</td>
+<td width="50%">
 
-### Request Dashboard
-![Request Dashboard](Screenshots/Request-Dashb.png)
+#### Request Dashboard
+<img src="Screenshots/Request-Dashb.png" width="100%">
 
-### Student Login Dashboard
-![Student Login Dashboard](Screenshots/Student-login-Dashb.png)
+</td>
+</tr>
 
-### Student Login
-![Student Login](Screenshots/Student-Login.png)
+<tr>
+<td width="50%">
 
-### Student Portal
-![Student Portal](Screenshots/Student-Portal.png)
+#### Approval Card
+<img src="Screenshots/Approval-Card.png" width="100%">
 
-### Student Profile
-![Student Profile](Screenshots/Student-Profile.png)
+</td>
+<td width="50%">
 
+#### Approved Students
+<img src="Screenshots/Approved-students.png" width="100%">
 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Pending Students
+<img src="Screenshots/Pending%20Students.png" width="100%">
+
+</td>
+<td width="50%">
+
+#### Rejected Requests
+<img src="Screenshots/Rejected-Requests.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 Student Portal
+
+The student portal allows students to securely log in, access their dashboard, view their profile, and manage placement-related information.
+
+<table>
+<tr>
+<td width="50%">
+
+#### Student Login
+<img src="Screenshots/Student-Login.png" width="100%">
+
+</td>
+<td width="50%">
+
+#### Student Login Dashboard
+<img src="Screenshots/Student-login-Dashb.png" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Student Portal
+<img src="Screenshots/Student-Portal.png" width="100%">
+
+</td>
+<td width="50%">
+
+#### Student Profile
+<img src="Screenshots/Student-Profile.png" width="100%">
+
+</td>
+</tr>
+</table>
 ---
 
 ## ⚙️ Installation
