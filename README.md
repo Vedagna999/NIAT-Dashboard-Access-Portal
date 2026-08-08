@@ -69,6 +69,40 @@ niat-program-dashboard
 │
 └── README.md
 ```
+---
+
+## Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](Screenshots/Admin-Dashboard.png)
+
+### Approval Card
+![Approval Card](Screenshots/Approval-Card.png)
+
+### Approved Students
+![Approved Students](Screenshots/Approved-students.png)
+
+### Pending Students
+![Pending Students](Screenshots/Pending%20Students.png)
+
+### Rejected Requests
+![Rejected Requests](Screenshots/Rejected-Requests.png)
+
+### Request Dashboard
+![Request Dashboard](Screenshots/Request-Dashb.png)
+
+### Student Login Dashboard
+![Student Login Dashboard](Screenshots/Student-login-Dashb.png)
+
+### Student Login
+![Student Login](Screenshots/Student-Login.png)
+
+### Student Portal
+![Student Portal](Screenshots/Student-Portal.png)
+
+### Student Profile
+![Student Profile](Screenshots/Student-Profile.png)
+
 
 ---
 
