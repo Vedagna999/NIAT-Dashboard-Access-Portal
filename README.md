@@ -69,13 +69,64 @@ niat-program-dashboard
 │
 └── README.md
 ```
----
-
 ## 📸 Screenshots
+
+### 🎓 Student Portal
+
+The student portal allows students to securely log in, access their dashboard, view their profile, and request access to placement opportunities.
+
+<table>
+<tr>
+<td width="50%">
+
+#### Student Portal
+<img src="Screenshots/Student-Portal.png" width="100%">
+
+</td>
+<td width="50%">
+
+#### Student Login
+<img src="Screenshots/Student-Login.png" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Student Dashboard
+<img src="Screenshots/Student-login-Dashb.png" width="100%">
+
+</td>
+<td width="50%">
+
+#### Student Profile
+<img src="Screenshots/Student-Profile.png" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Request Access
+<img src="Screenshots/Request-Dashb.png" width="100%">
+
+</td>
+<td width="50%">
+
+#### Approval Status
+<img src="Screenshots/Approval-Card.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 👨‍💼 Admin Portal
 
-The admin portal provides centralized access to manage student requests, approvals, and placement-related activities.
+The admin portal provides administrators with a centralized interface to review student requests and manage approvals.
 
 <table>
 <tr>
@@ -87,19 +138,13 @@ The admin portal provides centralized access to manage student requests, approva
 </td>
 <td width="50%">
 
-#### Request Dashboard
-<img src="Screenshots/Request-Dashb.png" width="100%">
+#### Rejected Requests
+<img src="Screenshots/Rejected-Requests.png" width="100%">
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-
-#### Approval Card
-<img src="Screenshots/Approval-Card.png" width="100%">
-
-</td>
 <td width="50%">
 
 #### Approved Students
@@ -107,61 +152,7 @@ The admin portal provides centralized access to manage student requests, approva
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-#### Pending Students
-<img src="Screenshots/Pending%20Students.png" width="100%">
-
-</td>
-<td width="50%">
-
-#### Rejected Requests
-<img src="Screenshots/Rejected-Requests.png" width="100%">
-
-</td>
-</tr>
 </table>
-
----
-
-### 🎓 Student Portal
-
-The student portal allows students to securely log in, access their dashboard, view their profile, and manage placement-related information.
-
-<table>
-<tr>
-<td width="50%">
-
-#### Student Login
-<img src="Screenshots/Student-Login.png" width="100%">
-
-</td>
-<td width="50%">
-
-#### Student Login Dashboard
-<img src="Screenshots/Student-login-Dashb.png" width="100%">
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### Student Portal
-<img src="Screenshots/Student-Portal.png" width="100%">
-
-</td>
-<td width="50%">
-
-#### Student Profile
-<img src="Screenshots/Student-Profile.png" width="100%">
-
-</td>
-</tr>
-</table>
----
 
 ## ⚙️ Installation
 
